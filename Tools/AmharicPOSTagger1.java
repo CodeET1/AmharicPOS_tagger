@@ -5,7 +5,7 @@ import opennlp.tools.tokenize.WhitespaceTokenizer;
 import java.io.FileInputStream;
 import java.io.InputStream;
 
-public class PosTaggerExample1 {
+public class AmharicPOSTagger2 {
     public static void main(String[] args) {
         try {
             // Load the POS model
