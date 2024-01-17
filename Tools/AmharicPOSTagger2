@@ -2,7 +2,7 @@ import opennlp.tools.postag.POSModel;
 import opennlp.tools.postag.POSTaggerME;
 import opennlp.tools.tokenize.WhitespaceTokenizer;
 
-public class AmharicPOSTagger {
+public class AmharicPOSTagger2 {
     public static void main(String[] args) throws Exception {
         String amharicText = "አማርኛ ጽሑፍ ለ POS መለያ";
 
